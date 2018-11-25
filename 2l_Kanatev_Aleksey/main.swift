@@ -25,7 +25,7 @@ func divide3 (_: Int) {
     if userDigit % 3 == 0 {
         print("Задание 2. Число \(userDigit) ДЕЛИТСЯ на 3 без остатка\n")
     } else {
-        print("Задание 2. Число \(userDigit) НЕ делится на 3 без остатка\n")
+        print("Задание 2. Число \(userDigit) НЕ делится на 3 без остатка\n ")
     }
 }
 
